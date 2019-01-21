@@ -18,7 +18,9 @@
     }
   ],
   "notification_subscribers": [],
-  "sync_notification_subscribers": [],
+  "sync_notification_subscribers": [
+    "v-peliao@microsoft.com"
+  ],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/opse2esa/E2E_RepoSync_Public_Test",
   "skip_source_output_uploading": false,
